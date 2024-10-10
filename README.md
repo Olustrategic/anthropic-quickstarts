@@ -2,7 +2,7 @@
 
 Anthropic Quickstarts is a collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs.
 
-## Getting Started
+### Getting Started
 
 To use these quickstarts, you'll need an Anthropic API key. If you don't have one yet, you can sign up for free at [console.anthropic.com](https://console.anthropic.com).
 
